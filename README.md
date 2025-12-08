@@ -2,7 +2,7 @@
 
 ## Structure du projet
 
-Organisez vos fichiers comme suit :
+Les fichiers doivent être organisé comme suit :
 
 ```
 mon_projet/
