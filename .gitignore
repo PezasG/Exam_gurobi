@@ -1,0 +1,21 @@
+# Sorties générées par le script
+videos.out
+videos.mps
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel
+venv/
+.env/
+*.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.swp
